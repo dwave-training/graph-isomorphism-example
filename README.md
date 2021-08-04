@@ -24,7 +24,7 @@ with our open source Ocean tools.
 
 # References
 Wiki page on [Graph Isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism).\
-Circuit Equivalence example in [dwave-examples]https://github.com/dwave-examples/circuit-equivalence).
+Circuit Equivalence example in [dwave-examples](https://github.com/dwave-examples/circuit-equivalence).
 
 # License
 Released under the Apache License 2.0. See [license](LICENSE) here.
