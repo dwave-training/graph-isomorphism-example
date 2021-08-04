@@ -23,7 +23,7 @@ The notebook provided covers encoding the objective and constraints of the Graph
 with our open source Ocean tools.
 
 # References
-Wiki page on [Graph Isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism).
+Wiki page on [Graph Isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism).\
 Circuit Equivalence example in [dwave-examples]https://github.com/dwave-examples/circuit-equivalence).
 
 # License
