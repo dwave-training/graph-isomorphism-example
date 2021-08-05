@@ -1,17 +1,7 @@
 import itertools
-import numpy as np
 import networkx as nx
-
-# Ignore errors importing matplotlib.pyplot (may not be available in
-# testing framework)
-try:
-    import matplotlib.pyplot as plt
-    import matplotlib.colors as mcolors
-except ImportError:
-    pass
-
-import dimod
-from dwave.system import LeapHybridDQMSampler
+import matplotlib.pyplot as plt
+import matplotlib.colors as mcolors
 
 
 # Directly taken from https://github.com/dwave-examples/circuit-equivalence
