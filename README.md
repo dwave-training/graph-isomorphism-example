@@ -10,17 +10,19 @@ pip install -r requirements.txt
 ```
 
 # Usage
-To run this demo, open up Jupyter Lab with a terminal, or make usage of the Leap IDE.
-If you use a terminal, run:
+To run this demo, open up Jupyter Lab with a terminal.
+Run this command:
 ```
 jupyter lab
 ```
 
 In Jupyter Lab, you can open the notebook and run the code on your local machine.
 
+Using the IDE is another option, if you'd like to try, right click the notebook and select "Open in Notebook Editor".
+
 # Code Overview
 The notebook provided covers encoding the objective and constraints of the Graph Isomorphism problem
-with our open source Ocean tools.
+with our open source D-Wave Ocean tools.
 
 # References
 Wiki page on [Graph Isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism).\
