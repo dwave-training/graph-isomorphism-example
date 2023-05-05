@@ -1,3 +1,7 @@
+[![Open in Leap IDE](	
+	https://cdn-assets.cloud.dwavesys.com/shared/latest/badges/leapide.svg)](
+	https://ide.dwavesys.io/#https://github.com/dwave-training/graph-isomorphism-example)
+
 # Graph Isomorphism
 The [Graph Isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism) problem asks whether two given graphs
 are isomorphic, that is, if a bijection (one-to-one mapping) of vertices between the graphs exists such that
