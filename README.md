@@ -1,6 +1,6 @@
 [![Open in GitHub Codespaces](
   https://img.shields.io/badge/Open%20in%20GitHub%20Codespaces-333?logo=github)](
-  https://codespaces.new/dwave-training/graph-isomorphism?quickstart=1)
+  https://codespaces.new/dwave-training/graph-isomorphism-example?quickstart=1)
 
 # Graph Isomorphism
 The [Graph Isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism) problem asks whether two given graphs
