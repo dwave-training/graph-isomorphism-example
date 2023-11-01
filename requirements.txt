@@ -1,5 +1,5 @@
-matplotlib~=3.4.2
-networkx==2.5.1
-dimod==0.12.7
-dwave-system==1.19.0
-jupyterlab==4.0.2
+matplotlib>=3.4.2
+networkx>=2.5.1
+dimod>=0.12.7
+dwave-system>=1.19.0
+jupyterlab>=4.0.2
