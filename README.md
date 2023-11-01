@@ -1,6 +1,6 @@
-[![Open in Leap IDE](	
-	https://cdn-assets.cloud.dwavesys.com/shared/latest/badges/leapide.svg)](
-	https://ide.dwavesys.io/#https://github.com/dwave-training/graph-isomorphism-example)
+[![Open in GitHub Codespaces](
+  https://img.shields.io/badge/Open%20in%20GitHub%20Codespaces-333?logo=github)](
+  https://codespaces.new/dwave-training/graph-isomorphism-example?quickstart=1)
 
 # Graph Isomorphism
 The [Graph Isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism) problem asks whether two given graphs
