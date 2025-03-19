@@ -24,7 +24,7 @@ recommended.
 # Usage
 Your development environment should be configured to 
 [access Leap’s Solvers](https://docs.dwavequantum.com/en/latest/ocean/sapi_access_basic.html).
-You can see information about [supported IDEs](https://docs.dwavequantum.com/en/latest/leap_sapi/dev_env.html) and [authorizing access to your Leap account](https://docs.dwavequantum.com/en/latest/ocean/leap_authorization.html#authorizing-access-to-the-leap-service).  
+You can see information about [supported IDEs](https://docs.dwavequantum.com/en/latest/leap_sapi/dev_env.html) and [authorizing access to the Leap Service](https://docs.dwavequantum.com/en/latest/ocean/leap_authorization.html#authorizing-access-to-the-leap-service).  
 
 To run this demo locally, open up Jupyter Lab with a terminal.
 Run this command:
