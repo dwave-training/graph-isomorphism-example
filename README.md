@@ -22,9 +22,7 @@ If you are cloning the repo to your local system, working in a
 recommended.
 
 # Usage
-Your development environment should be configured to 
-[access to the Leap Service](https://docs.dwavequantum.com/en/latest/ocean/sapi_access_basic.html).
-You can see information about [supported IDEs](https://docs.dwavequantum.com/en/latest/leap_sapi/dev_env.html) and [authorizing access to the Leap Service](https://docs.dwavequantum.com/en/latest/ocean/leap_authorization.html#authorizing-access-to-the-leap-service).  
+A [supported IDE](https://docs.dwavequantum.com/en/latest/leap_sapi/dev_env.html) must be [authorized](https://docs.dwavequantum.com/en/latest/ocean/leap_authorization.html#authorizing-access-to-the-leap-service) and [configured](https://docs.dwavequantum.com/en/latest/ocean/sapi_access_basic.html) to access the Leap service.
 
 To run this demo locally, open up Jupyter Lab with a terminal.
 Run this command:
